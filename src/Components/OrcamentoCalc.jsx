@@ -34,6 +34,7 @@ const OrcamentoCalc = ({ calcValor }) => {
     setUrgente(e.target.checked);
     };
 
+    
     return (
         <div id="calc-container">
             <h2>Calculadora de Orçamento Freelancer</h2>
